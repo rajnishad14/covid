@@ -34,15 +34,6 @@ const dataSource = {
         {
           label: 'Russia',
         },
-        {
-          label: 'Australia',
-        },
-        {
-          label: 'United States',
-        },
-        {
-          label: 'France',
-        },
       ],
     },
   ],
@@ -59,15 +50,6 @@ const dataSource = {
         {
           value: '500',
         },
-        {
-          value: '420',
-        },
-        {
-          value: '790',
-        },
-        {
-          value: '380',
-        },
       ],
     },
     {
@@ -81,15 +63,6 @@ const dataSource = {
         },
         {
           value: '410',
-        },
-        {
-          value: '370',
-        },
-        {
-          value: '720',
-        },
-        {
-          value: '310',
         },
       ],
     },
@@ -105,15 +78,6 @@ const dataSource = {
         {
           value: '450',
         },
-        {
-          value: '180',
-        },
-        {
-          value: '570',
-        },
-        {
-          value: '270',
-        },
       ],
     },
     {
@@ -128,15 +92,6 @@ const dataSource = {
         {
           value: '230',
         },
-        {
-          value: '160',
-        },
-        {
-          value: '440',
-        },
-        {
-          value: '350',
-        },
       ],
     },
     {
@@ -150,15 +105,6 @@ const dataSource = {
         },
         {
           value: '200',
-        },
-        {
-          value: '50',
-        },
-        {
-          value: '230',
-        },
-        {
-          value: '150',
         },
       ],
     },
